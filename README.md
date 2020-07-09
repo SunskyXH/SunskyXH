@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👀 working at @iftechio
+- 🏪 web & react-native
+- 📫 sunskyxh@gmail.com
+
 <!--
 **SunskyXH/SunskyXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
