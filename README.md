@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👀 working at @iftechio
+- 👀 working at [@iftechio](https://iftech.io)
 - 🏪 web & react-native
 - 📫 sunskyxh@gmail.com
 
