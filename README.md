@@ -2,8 +2,8 @@
 
 - 👀 working at [@iftechio](https://iftech.io)
 - 🏪 web & react-native
-- 📫 sunskyxh@gmail.com
-- 💬 more about me on https://sunskyxh.vercel.app
+- 📫 m@sunskyxh.me
+- 💬 more about me on https://sunskyxh.me
 
 <!--
 **SunskyXH/SunskyXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
