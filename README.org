@@ -1,6 +1,7 @@
 *** Hi there 👋
 
-+ 👀 working at [@iftechio](https://github.com/iftechio)
-+ 🏪 web & react-native
++ 👀 working at [[https://github.com/iftechio][@iftechio]]
++ 🏪 web & react-native developer
++ 🦀️ learning rust
 + 📫 m@sunskyxh.me
-+ 💬 more about me on https://sunskyxh.me
++ 💬 more about me on [[https://sunskyxh.me][sunskyxh.me]]
