@@ -1,6 +1,6 @@
-* Hi there 👋
+*** Hi there 👋
 
-* 👀 working at [@iftechio](https://github.com/iftechio)
-* 🏪 web & react-native
-* 📫 m@sunskyxh.me
-* 💬 more about me on https://sunskyxh.me
++ 👀 working at [@iftechio](https://github.com/iftechio)
++ 🏪 web & react-native
++ 📫 m@sunskyxh.me
++ 💬 more about me on https://sunskyxh.me
