@@ -3,5 +3,5 @@
 + 👀 working at [[https://github.com/iftechio][@iftechio]]
 + 🏪 web & react-native developer
 + 🦀️ learning rust
-+ 📫 m@sunskyxh.me
++ 📫 contact me via [[mailto:m@sunskyxh.me][m@sunskyxh.me]]
 + 💬 more about me on [[https://sunskyxh.me][sunskyxh.me]]
