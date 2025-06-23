@@ -1,7 +1,6 @@
 *** Hi there 👋
 
-+ 📝 Master student @UTokyo, previously senior front-end engineer @iftechio
-+ 🔰 learning CG-related technologes
-+ 🦀️ learning C++ & Rust
++ 📝 Fullstack Enginner. Previously master student @UTokyo.
++ 🦀️ learning Rust / C++ / CUDA
 + 📫 contact me via [[mailto:m@sunskyxh.me][m@sunskyxh.me]]
 + 💬 more about me on [[https://sunskyxh.me][sunskyxh.me]]
