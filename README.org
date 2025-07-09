@@ -1,6 +1,6 @@
 *** Hi there 👋
 
-+ 📝 Fullstack Enginner. Previously master student @UTokyo.
++ 📝 Fullstack Enginner
 + 🦀️ learning Rust / C++ / CUDA
 + 📫 contact me via [[mailto:m@sunskyxh.me][m@sunskyxh.me]]
 + 💬 more about me on [[https://sunskyxh.me][sunskyxh.me]]
