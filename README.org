@@ -1,6 +1,6 @@
 *** Hi there 👋
 
-+ 📝 Fullstack Enginner
-+ 🦀️ Learning Rust / C++ / CUDA
-+ 📫 Contact me via [[mailto:m@sunskyxh.me][m@sunskyxh.me]]
-+ 💬 More about me on [[https://sunskyxh.me][sunskyxh.me]]
++ Fullstack Enginner
++ Learning Rust / C++ / CUDA
++ Contact me via [[mailto:m@sunskyxh.me][m@sunskyxh.me]]
++ More about me on [[https://sunskyxh.me][sunskyxh.me]]
